@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.chaquo.python.runtime</groupId>
+  <artifactId>chaquopy</artifactId>
+  <versioning>
+    <latest>17.2.0-anenasa</latest>
+    <release>17.2.0-anenasa</release>
+    <versions>
+      <version>17.2.0-anenasa</version>
+    </versions>
+    <lastUpdated>20261028010337</lastUpdated>
+  </versioning>
+</metadata>
